@@ -20,3 +20,6 @@ int main(void)
   ft_print_reverse_alphabet();
   return 0;
 }
+
+
+// ft_print_reverse_alphabet, code intéressant pour apprendre le c# pour l'épreuve 42
