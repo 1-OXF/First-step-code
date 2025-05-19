@@ -10,3 +10,13 @@ Best regards,
 1-OXF
 
 // traduis du français à l'anglais
+
+
+Salut !
+Nouveau dans le code informatique je m'entraine sur du C#
+J'espère avec le temps pouvoir obtenir ma certification de l'école 42 et obtenir un travail dans le dev en c# soit en suisse ou le top au USA
+Pour le moment je m'entraine et crée quelques projets débutants pour finir sur un projet plus conséquent.
+Vous pouvez voir mon évolution dans le code sur mon GitHub
+Merci d'avoir pris le temps de lire
+
+Cordialement 1-OXF
