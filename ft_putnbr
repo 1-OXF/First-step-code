@@ -1,0 +1,26 @@
+// nouveau code appris ajd pour afficher une série de nombre grâce à ft_putnbr.
+
+#include <unistd.h>
+
+void ft_putnbr(int nb)
+{
+    char c;
+
+    if (nb >= 10)
+        ft_putnbr(nb/10);
+    c = (nb % 10) + '0';
+    write(1, &c, 1);
+}
+
+int main(void)
+{
+    int i = 1;
+
+    while (i <= 100)
+    {
+        ft_putnbr(i)
+        write(1, "\n", 1);
+        i++;
+    }
+    return 0;
+}
